@@ -26,14 +26,13 @@ Analyze customer behavior using RFM analysis and churn prediction.
 - Scikit-learn
 
 ## Steps:
-- 1 Data Cleaning
-- 2 Feature Engineering
-- 3 RFM Segmentation
-- 4 Churn Prediction
-- 5 Business Insights
+-  Data Cleaning
+-  Feature Engineering
+-  RFM Segmentation
+-  Churn Prediction
+-  Business Insights
 
 Results:
 - Identified high value customers
-- Found churn risk segments
-- Suggested retention strategies
+
 
