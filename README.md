@@ -1,13 +1,13 @@
 # RetainX
 A Revenue Intelligence Platform
 
-## Objective
+### Objective
 To analyze transaction data and generate business insights.
 
-## Dataset
+### Dataset
 Online Retail II dataset
 
-## Project Status
+### Project Status
 Data Cleaning Phase
 
 ---
@@ -19,21 +19,21 @@ Businesses lose customers without knowing why.
 Analyze customer behavior using RFM analysis and churn prediction.
 
 ## Tech Stack:
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
 ## Steps:
-1 Data Cleaning
-2 Feature Engineering
-3 RFM Segmentation
-4 Churn Prediction
-5 Business Insights
+- 1 Data Cleaning
+- 2 Feature Engineering
+- 3 RFM Segmentation
+- 4 Churn Prediction
+- 5 Business Insights
 
 Results:
-• Identified high value customers
-• Found churn risk segments
-• Suggested retention strategies
+- Identified high value customers
+- Found churn risk segments
+- Suggested retention strategies
 
