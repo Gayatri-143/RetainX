@@ -8,8 +8,7 @@ To analyze transaction data and generate business insights.
 Online Retail II dataset
 
 ### Project Status
-Data Cleaning Phase
-
+Feature Engineering
 ---
 
 ## Problem:
