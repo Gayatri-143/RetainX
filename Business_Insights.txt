@@ -1,0 +1,19 @@
+1️. Sales Seasonality
+
+Sales peak during November and December, suggesting strong holiday-driven purchasing behavior.
+
+2. Geographic Concentration
+
+The United Kingdom dominates sales revenue, with additional contributions from European markets.
+
+3️. Top Performing Products
+
+Decorative home and gift items represent the highest revenue-generating products.
+
+4️. Customer Spending Behavior
+
+Average order value indicates moderate per-transaction spending.
+
+5️. Customer Loyalty
+
+Repeat purchase rate shows that a portion of customers return for multiple transactions.
