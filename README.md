@@ -8,7 +8,7 @@ To analyze transaction data and generate business insights.
 Online Retail II dataset
 
 ### Project Status
-Feature Engineering Phase
+EDA Phase
 
 ---
 
